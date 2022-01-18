@@ -1,0 +1,101 @@
+[
+        {
+          "id":1,
+          "name":"Spider-Man: No Way Home",
+          "poster":"https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/spider-man-no-way-home-et00310790-07-12-2021-07-25-42.jpg",
+          "rating":57,
+         " votes":20,
+          "genres":["Action","Adventure","SI-Fi"],
+          "language":"English",
+         " duration":"2h 45min",
+          "releaseDate":"20-1-2021"
+        },
+        {
+         " id":2,
+         " name":"Spider-Man: No Way Home",
+         " poster":"https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-OTElICAxMWsgdm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70/et00313076-bwnwcnftzb-portrait.jpg",
+         " rating":57,
+          "votes":20,
+          "genres":["Action","Adventure","SI-Fi"],
+          "language":"English",
+          "duration":"2h 45min",
+          "releaseDate":"20-1-2021"
+        },{
+          "id":3,
+          "name":"Spider-Man: No Way Home",
+          "poster":"https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/spider-man-no-way-home-et00310790-07-12-2021-07-25-42.jpg",
+         " trailer":"https://youtu.be/5tMBgBqpWts",
+          "rating":57,
+          "votes":20,
+          "genres":["Action","Adventure","SI-Fi"],
+         "language":"English",
+          "duration":"2h 45min",
+          "releaseDate":"20-1-2021"
+        },{
+            "id":4,
+            "name":"Spider-Man: No Way Home",
+            "poster":"https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/spider-man-no-way-home-et00310790-07-12-2021-07-25-42.jpg",
+           " trailer":"https://youtu.be/5tMBgBqpWts",
+            "rating":57,
+            "votes":20,
+            "genres":["Action","Adventure","SI-Fi"],
+           "language":"English",
+            "duration":"2h 45min",
+            "releaseDate":"20-1-2021"
+          },{
+            "id":5,
+            "name":"Spider-Man: No Way Home",
+            "poster":"https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/spider-man-no-way-home-et00310790-07-12-2021-07-25-42.jpg",
+           " trailer":"https://youtu.be/5tMBgBqpWts",
+            "rating":57,
+            "votes":20,
+            "genres":["Action","Adventure","SI-Fi"],
+           "language":"English",
+            "duration":"2h 45min",
+            "releaseDate":"20-1-2021"
+          },{
+            "id":6,
+            "name":"Spider-Man: No Way Home",
+            "poster":"https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/spider-man-no-way-home-et00310790-07-12-2021-07-25-42.jpg",
+           " trailer":"https://youtu.be/5tMBgBqpWts",
+            "rating":57,
+            "votes":20,
+            "genres":["Action","Adventure","SI-Fi"],
+           "language":"English",
+            "duration":"2h 45min",
+            "releaseDate":"20-1-2021"
+          },{
+            "id":7,
+            "name":"Spider-Man: No Way Home",
+            "poster":"https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/spider-man-no-way-home-et00310790-07-12-2021-07-25-42.jpg",
+           " trailer":"https://youtu.be/5tMBgBqpWts",
+            "rating":57,
+            "votes":20,
+            "genres":["Action","Adventure","SI-Fi"],
+           "language":"English",
+            "duration":"2h 45min",
+            "releaseDate":"20-1-2021"
+          },{
+            "id":8,
+            "name":"Spider-Man: No Way Home",
+            "poster":"https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/spider-man-no-way-home-et00310790-07-12-2021-07-25-42.jpg",
+           " trailer":"https://youtu.be/5tMBgBqpWts",
+            "rating":57,
+            "votes":20,
+            "genres":["Action","Adventure","SI-Fi"],
+           "language":"English",
+            "duration":"2h 45min",
+            "releaseDate":"20-1-2021"
+          },{
+            "id":9,
+            "name":"Spider-Man: No Way Home",
+            "poster":"https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/spider-man-no-way-home-et00310790-07-12-2021-07-25-42.jpg",
+           " trailer":"https://youtu.be/5tMBgBqpWts",
+            "rating":57,
+            "votes":20,
+            "genres":["Action","Adventure","SI-Fi"],
+           "language":"English",
+            "duration":"2h 45min",
+            "releaseDate":"20-1-2021"
+          }
+      ]

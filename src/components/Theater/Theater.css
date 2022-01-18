@@ -1,0 +1,16 @@
+.theaterlist{
+    display: flex;
+    flex-direction: column;
+   
+}
+.theater{
+    display: flex;
+    justify-content:space-evenly;
+    border-bottom:solid 1px ;
+    align-items: center;
+    margin: 20px 0px;
+}
+.time{
+    display: flex;
+    gap: 20px;
+}
